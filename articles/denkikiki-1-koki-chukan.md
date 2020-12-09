@@ -3,7 +3,7 @@ title: "電気機器ノート"
 emoji: "📚"
 type: "idea"
 topics: ["notes"]
-published: false
+published: true
 ---
 # 電動機
 
