@@ -69,6 +69,7 @@ $V_a$を変える。
 
 ## 効率
 負荷損と無負荷損が等しい時に最大効率となる。
+![koritsu-graph](https://storage.googleapis.com/zenn-user-upload/95tk8xyjlbokte89fd9tlbx975jt)
 ### 実測効率
 入力と出力を直接測定して求めた効率。
 $$実測効率 = \frac{出力}{入力} = \frac{P_{out}}{P_{in}} \times 100 \mathrm{[\%]}$$
