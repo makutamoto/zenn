@@ -77,6 +77,13 @@ $$実測効率 = \frac{出力}{入力} = \frac{P_{out}}{P_{in}} \times 100 \math
 入力もしくは出力の片方のみから求められる効率。
 $$規約効率（発電機） = \frac{出力}{出力 + 損失} \times 100 \mathrm{[\%]}$$
 $$規約効率（電動機） = \frac{入力}{入力 - 損失} \times 100 \mathrm{[\%]}$$
+
+# 変圧器
+## 原理
+![henatsuki](https://storage.googleapis.com/zenn-user-upload/arw2y1hapbym6znekiu56cfne90b)
+### 巻数比
+$$a = \frac{V_1}{V_2} = \frac{I_2}{I_1} = \frac{一次側の巻数}{二次側の巻数}$$
+
 # 演習問題
 ## 電動機の最大効率の証明問題
 > 端子電圧$V_0$ 電機子電流$I_0$ 無負荷損$P_0$ 負荷損$P_L = KI_a^2$の電動機があるとき、最大効率となる条件を求めよ。
