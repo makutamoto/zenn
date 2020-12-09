@@ -84,6 +84,9 @@ $$規約効率（電動機） = \frac{入力 - 損失}{入力} \times 100 \mathr
 $$a = \frac{V_1}{V_2} = \frac{I_2}{I_1} = \frac{一次側の巻数}{二次側の巻数}$$
 
 ## 励磁回路
+![henseiki-tokusei](https://storage.googleapis.com/zenn-user-upload/p648lkj5iucyc7jmdhpke1kqs5xm)
+磁束が正弦波状だと磁性体にヒステリシス特性があるため電流が歪む。
+
 ### 磁心
 磁性材料で構成された閉磁気回路。
 #### 磁性材料
