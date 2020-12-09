@@ -126,11 +126,11 @@ $$\therefore a = \frac{V_1}{V_2} = \frac{600}{30} = 20$$
 > 一次電圧$3000 \mathrm{V}$、周波数$50 \mathrm{Hz}$、一次巻数$600 \mathrm{回}$の単相変圧器がある。この時の最大磁束はいくらか。
 :::details 解説
 磁束は正弦波となるから、
-$$\Phi = \Phi_m\sin{100\pi t}$$
+$$\Phi = \Phi_m\sin{100\pi t} \mathrm{[Wb]}$$
 ファラデーの法則より、
-$$E = n\frac{d\Phi}{dt} = 600 \times 100\pi\Phi_m\cos{100\pi t}$$
+$$E = n\frac{d\Phi}{dt} = 600 \times 100\pi\Phi_m\cos{100\pi t} \mathrm{[V]}$$
 誘導起電力が最大のとき磁束は最大になるから、
-$$E = 600 \times 100\pi\Phi_m = 3000\sqrt{2}$$
+$$E = 600 \times 100\pi\Phi_m = 3000\sqrt{2} \mathrm{V}$$
 よって、
 $$\Phi_m = \frac{3000\sqrt{2}}{600 \times 100\pi} = 2.25 \times 10^{-2} \mathrm{Wb}$$
 :::
@@ -139,9 +139,9 @@ $$\Phi_m = \frac{3000\sqrt{2}}{600 \times 100\pi} = 2.25 \times 10^{-2} \mathrm{
 > 理想変圧器の一次側に周波数$f \mathrm{[Hz]}$を加えた時、最大磁束が$\sqrt{2}\phi$であった。この時、二次側電圧$E_2 = 2 \pi f \frac{n_1}{a} \phi$であった。この時、二次側電圧$E_2 = 2\pi f \frac{n_1}{a}\phi$であることを証明せよ。（巻数比$a = \frac{n_1}{n_2}$）
 :::details 解説
 磁束は正弦波となるから、
-$$\Phi = \sqrt{2}\phi\sin{2\pi f t}$$
+$$\Phi = \sqrt{2}\phi\sin{2\pi f t} \mathrm{[Wb]}$$
 ファラデーの法則より、
-$$E = \frac{n_1}{a}\frac{d\Phi}{dt} = 2\sqrt{2}\pi f\phi\frac{n_1}{a}cos{2\pi f t}$$
+$$E = \frac{n_1}{a}\frac{d\Phi}{dt} = 2\sqrt{2}\pi f\phi\frac{n_1}{a}cos{2\pi f t} \mathrm{[V]}$$
 求める$E_2$は実行値だから$\frac{1}{\sqrt{2}}$倍して、
-$$\therefore E_2 = \frac{1}{\sqrt{2}} \times 2\sqrt{2}\pi f\phi\frac{n_1}{a} = 2\pi f\phi\frac{n_1}{a}$$
+$$\therefore E_2 = \frac{1}{\sqrt{2}} \times 2\sqrt{2}\pi f\phi\frac{n_1}{a} = 2\pi f\phi\frac{n_1}{a} \mathrm{[V]}$$
 :::
