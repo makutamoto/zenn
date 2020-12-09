@@ -76,7 +76,7 @@ $$実測効率 = \frac{出力}{入力} = \frac{P_{out}}{P_{in}} \times 100 \math
 ### 規約効率
 入力もしくは出力の片方のみから求められる効率。
 $$規約効率（発電機） = \frac{出力}{出力 + 損失} \times 100 \mathrm{[\%]}$$
-$$規約効率（電動機） = \frac{入力}{入力 - 損失} \times 100 \mathrm{[\%]}$$
+$$規約効率（電動機） = \frac{入力 - 損失}{入力} \times 100 \mathrm{[\%]}$$
 
 # 変圧器
 ![henatsuki](https://storage.googleapis.com/zenn-user-upload/arw2y1hapbym6znekiu56cfne90b)
