@@ -1,5 +1,5 @@
 ---
-title: "電気機器ノート"
+title: "電気機器I後期中間ノート"
 emoji: "📚"
 type: "idea"
 topics: ["notes"]
@@ -133,4 +133,15 @@ $$E = n\frac{d\Phi}{dt} = 600 \times 100\pi\Phi_m\cos{100\pi t}$$
 $$E = 600 \times 100\pi\Phi_m = 3000\sqrt{2}$$
 よって、
 $$\Phi_m = \frac{3000\sqrt{2}}{600 \times 100\pi} = 2.25 \times 10^{-2} \mathrm{Wb}$$
+:::
+
+## 最大磁束の証明問題
+> 理想変圧器の一次側に周波数$f \mathrm{[Hz]}$を加えた時、最大磁束が$\sqrt{2}\phi$であった。この時、二次側電圧$E_2 = 2 \pi f \frac{n_1}{a} \phi$であった。この時、二次側電圧$E_2 = 2\pi f \frac{n_1}{a}\phi$であることを証明せよ。（巻数比$a = \frac{n_1}{n_2}$）
+:::details 解説
+磁束は正弦波となるから、
+$$\Phi = \sqrt{2}\phi\sin{2\pi f t}$$
+ファラデーの法則より、
+$$E = \frac{n_1}{a}\frac{d\Phi}{dt} = 2\sqrt{2}\pi f\phi\frac{n_1}{a}cos{2\pi f t}$$
+求める$E_2$は実行値だから$\frac{1}{\sqrt{2}}$倍して、
+$$\therefore E_2 = \frac{1}{\sqrt{2}} \times 2\sqrt{2}\pi f\phi\frac{n_1}{a} = 2\pi f\phi\frac{n_1}{a}$$
 :::
