@@ -15,7 +15,7 @@ MojaCoderの[問題を投稿](https://mojacoder.vercel.app/problems/post)へア�
 
 ### 問題Slug
 これは問題ページのURLに使われる文字列です。
-例えば問題Slugがa-plus-bのとき、問題ページへのURLは`mojacoder.vercel.app/users/ユーザー名/problems/a-plus-b`となります。
+例えば問題Slugが`a-plus-b`のとき、問題ページへのURLは`mojacoder.vercel.app/users/ユーザー名/problems/a-plus-b`となります。
 設定できる文字列に現在特に制限を設けていませんが、URLを見やすくするためにアルファベットでなるべく短い文字数で構成した方が良いでしょう。
 
 :::message
