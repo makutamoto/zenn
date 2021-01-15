@@ -35,7 +35,7 @@ testcasesやproblem.json、README.mdは必ずZipファイル直下に置いて�
 
 ### problem.json
 問題の設定をここでします。
-現状はタイトルしかいじレません。
+現状はタイトルしかいじれません。
 ```json:problem.json
 {
     "title": "問題タイトル"
