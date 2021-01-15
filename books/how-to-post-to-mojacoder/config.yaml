@@ -1,0 +1,9 @@
+title: "競技プログラミングの問題投稿サイト、MojaCoderへの問題投稿方法！"
+summary: MojaCoderへの問題投稿の方法について質問が多かったので本の形でまとめました。
+topics: ['競技プログラミング', 'MojaCoder']
+published: false
+price: 0
+chapters:
+  - what-is-mojacoder
+  - using-webeditor
+  - using-zip-upload
