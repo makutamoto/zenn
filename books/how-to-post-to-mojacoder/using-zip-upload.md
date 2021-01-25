@@ -14,7 +14,8 @@ title: "Zipファイルでの投稿のやり方"
 │   └── out
 │       └── testcase-1.txt
 ├── problem.json
-└── README.md
+├── README.md
+└── EDITORIAL.md // optional
 ```
 ☝️のような構造のZipファイルを[問題を投稿](https://mojacoder.vercel.app/problems/post)から選択してアップロードしてください。
 
@@ -45,6 +46,10 @@ testcasesやproblem.json、README.mdは必ずZipファイル直下に置いて�
 ### README.md
 問題文をMarkdown記法で記述します。
 数式はTex記法で書くことができます。
+
+### EDITORIAL.md
+解説を問題文と同じように書くことができます。
+このファイルがなくても問題を投稿することができます。
 
 編集方法
 =====

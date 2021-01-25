@@ -98,6 +98,13 @@ A B
 テストケース名とテストケースの入力、出力を設定できます。
 編集した後は更新ボタンを押すと確定できます。
 
+解説タブ
+-----
+![解説タブ](https://storage.googleapis.com/zenn-user-upload/tfly7tt8ewvoxdy8p2u38fb9zjtx)
+解説タブで問題文と同じように解説を書くことができます。
+![解説付き問題](https://storage.googleapis.com/zenn-user-upload/442h632yqb6ik3y5qe552phcg53y)
+解説を投稿すると、問題ページから参照できるようになります。
+
 編集方法
 =====
 ![編集ボタン](https://storage.googleapis.com/zenn-user-upload/czg2rin1mrualfnp10kf4gytr8n1)
